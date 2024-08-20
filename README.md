@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Instead+of+waiting+-+do)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%32CD32&lines=Instead+of+waiting+-+do)](https://git.io/typing-svg)
