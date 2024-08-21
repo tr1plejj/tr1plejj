@@ -46,5 +46,3 @@ Native language: **Python** <img src="https://github.com/devicons/devicon/blob/m
 
 <br clear="left"/>
 
-<img src="champloo.jpg"/>
-
