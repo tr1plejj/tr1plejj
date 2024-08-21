@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Instead+of+waiting+-+do)](https://git.io/typing-svg)
+<br><img src="kintaro.jpg" align="right" width=320 height=200/>
+<div align="left">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Instead+of+waiting+-+do)](https://git.io/typing-svg)
+  
+</div>
+<br clear="right"/>
 
 # Backend and Telegram bots Developer
 
@@ -18,7 +24,7 @@
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  <cut/>
+
 </div>
 
 <br clear="left"/>
@@ -39,4 +45,6 @@ Native language: **Python** <img src="https://github.com/devicons/devicon/blob/m
 </div>
 
 <br clear="left"/>
+
+<img src="champloo.jpg"/>
 
