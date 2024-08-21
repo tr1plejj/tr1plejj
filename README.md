@@ -26,15 +26,15 @@
 <br><img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" align="right"/>
 <div align="left">
   
-Planet: Earth 🌍
+Planet: **Earth** 🌍
 
-Nickname: Oleg
+Nickname: **Oleg**
 
-Registration date: 03.30.2007
+Registration date: **03.30.2007**
 
-Level: 17 
+Level: **17** 
 
-Native language: Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="18" height="18"/>
+Native language: **Python** <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="18" height="18"/>
 
 </div>
 
