@@ -1,10 +1,21 @@
 <table width="100%">
-  <tr>
-    <td align="left">
-      <img src="./cbart.gif"/>
+  <tr valign="top">
+    <td style="padding-right: 20px;">
+      <img src="./cbart.gif" width="287"/>
     </td>
-    <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr1plejj&theme=radical&layout=compact" />
+    <td>
+      <table>
+        <tr>
+          <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr1plejj&theme=radical&layout=compact" width="420"/>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding-top: 10px;">
+            <img src="https://leetcard.jacoblin.cool/tr1plejj?theme=dark" width="420"/>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
